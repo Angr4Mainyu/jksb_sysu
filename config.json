@@ -2,7 +2,7 @@
     {
         "username": "user1",
         "password": "pass",
-        "wxsend_key":"",
+        "wxsend_key": ""
     },
     {
         "username": "user2",

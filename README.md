@@ -3,7 +3,7 @@
 中山大学健康申报自动化脚本，支持定时运行和失败重试，打卡结果微信通知，此脚本仅供学习交流，禁止商业使用。使用软件过程中，发生意外造成的损失由使用者承担。如遇身体不适、或居住地址发生变化，请及时更新健康申报信息，向学校说明情况。
 
 ## 说明
-基于[@tomatoF](https://github.com/tomatoF)的[jksb_sysu](https://github.com/tomatoF/jksb_sysu)的小修改：
+基于[@ClockOrangeD](https://github.com/ClockOrangeD)的[jksb_sysu](https://github.com/ClockOrangeD/jksb_sysu)的小修改：
 
 * 多用户支持
 * 9点附近定时随机打卡

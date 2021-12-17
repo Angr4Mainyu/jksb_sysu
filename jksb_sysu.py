@@ -84,7 +84,7 @@ def login(user, driver):
 
     # 判断登陆成功
     msg = driver.find_element_by_class_name('alert').text
-    assert msg.startswith('Log In Successful')
+    assert msg.startswith('Log In Successful') or msg.startswith('登录成功')
     log.get_logger().info("登陆成功！")
     time.sleep(4)
     return username
